@@ -5,7 +5,7 @@ import TodoList from "./todos/Todolist";
 
 const App = () => (
   <div className="App">
-    <h1>Hello, World!!!</h1>
+    <h1>Your custom To-do List WebApp</h1>
     <TodoList />
   </div>
 );
